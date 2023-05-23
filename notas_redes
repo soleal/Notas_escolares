@@ -22,11 +22,14 @@ Mac Adress: Identificador único de um equipamento de rede, não se pode ser rep
 
 Subnet Mask : É um número de 32 bits usado em um IP para separar a parte correspondente à rede e aos hosts.
 
+Default Gateway -> porta do router
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Perguntas possiveis no teste:
 -> 0 que é que tem a haver com o encapsulamento?
 -> Explica a figura com base no endereçamento Mac address e Ip
+-> arp não funciona com IPV6
 
 
 
