@@ -1,0 +1,50 @@
+enable -> aiva o modo de administrador?
+
+config ter -> ativa o modo de configuração 
+
+hostname -> da o identificador do host interface -> ativa o modo de interface
+
+ip address [ip] [default gateway]-> para defenir um default gateway num ip
+
+no shutdown -> liga os cabos/conexões
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ip : è um numero formado por 4 octetos e que identifica um equipamento numa rede, pode se ter repetidos em redes diferentes.
+
+Classes de Ip : A B C D E
+
+Categoias de Ip : Ips Publicos , Privados e reservados
+
+Com 8 bites nao se pode escrever um octeto com um valor maior de 255
+
+Mac Adress: Identificador único de um equipamento de rede, não se pode ser repetido.
+
+Subnet Mask : É um número de 32 bits usado em um IP para separar a parte correspondente à rede e aos hosts.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Perguntas possiveis no teste:
+-> 0 que é que tem a haver com o encapsulamento?
+-> Explica a figura com base no endereçamento Mac address e Ip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
