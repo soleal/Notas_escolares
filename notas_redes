@@ -42,11 +42,13 @@ EX: serviço postal ; FTP
 define a rede quando o host é tudo 0
 
 
-Broadcast-envia msg pra todos em uma rede qnd o host é tudo 1
+Broadcast-qnd o host é tudo 1
 
 
 
 definição de rede: quando a rede é tudo 1 e o host é tudo 0
+
+O ultimo 0 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 trabalho tcp 
