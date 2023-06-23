@@ -1,4 +1,66 @@
+
 802.11->wifi
 802.3->ethernet
 ->quanto mais lenta a frequencia mais longe o seu alcance
 ->quanto mais rapida mais dados pode transportar
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+VARIAVEIS
+
+# uma variavel deve ter um nome significativo
+# uma variavel deve ter um nome que seja facil de ser lido
+# posso ter numeros no nomes , mas nao no inicio
+# o underline é permitido no inicio do home da variavel
+
+
+  print(type(XPTO)) -> diz o tipo da variavel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
