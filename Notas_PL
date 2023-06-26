@@ -18,9 +18,17 @@ VARIAVEIS
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+print(num1+num2) 
+print(num1-num2)
+print(num1*num2)
+print(num2/num1)
+print(num2//num1)  -> divisao com resultado -> numero inteiro
+print(num2**num1)  -> elevado / potencia
+print(num2%num1)   -> o resto da divisão
 
 
-
+                                                                                                                                  
 
 
 
