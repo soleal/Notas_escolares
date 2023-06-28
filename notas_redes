@@ -33,9 +33,15 @@ Perguntas possiveis no teste:
 -> porta de origem e de ddestino para que servem?
 -> protocolo ARP
 -> protocolo UTP e TCP
+-> como é constituido o endereço mac address
+-> não podemos alterar o mac address
+-> multicast mac address
+-> mac address nunca passa o router, o mac address so sao validos dentro da mesma rede
+-> comandos ARP
 
 -> oque é o encapsulamento e para que serve
-
+-> quais endereçamentos existem
+-> http; TCP; IP; EHTHERNET
 
 é um serviço que nao garante a entrega da msg
 EX: serviço postal ; FTP
