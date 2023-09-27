@@ -33,6 +33,15 @@ print(num2%num1)   -> o resto da divisão
 um programa que encontre os numeros divisiveis por 5 ou 7 entre 1500 e 2700
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+COMANDOS
+
+  boot- ficheiros essenciais para o arranque do linux
+
+  pasta bin-tem comandos basicos do linux
+
+  pasta dev- lista de dispositivos
 
 
 
