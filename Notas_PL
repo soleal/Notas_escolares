@@ -45,7 +45,9 @@ COMANDOS
 
   etc- onde se encontra as configurações do sistema operativo
 
-
+  sudo chmod-     O primeiro dígito (4) representa permissão de leitura.
+                  O segundo dígito (2) representa permissão de escrita.
+                  O terceiro dígito (1) representa permissão de execução.
 
 
 
